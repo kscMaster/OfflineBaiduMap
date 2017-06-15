@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="orange">#FFBB33</color>
+    <color name="black">#ff000000</color>
+    <color name="gray">#868585</color>
+    <color name="blue">#33ADFF</color>
+    <color name="pink">#f08080</color>
+    <color name="red">#db3434</color>
+    <color name="green">#11b900</color>
+    <color name="yellow">#ffff00</color>
+    <color name="aeb_mune_color">#0099FF</color>
+
+    <color name="activity_background">#F2F6F9</color>
+    <color name="system_background">#FAFAFA</color>
+    <color name="half_transparent_black">#BB000000</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="page_bg_color">#efeff7</color>
+
+    <color name="colorGregorian">#ff3388ff</color>
+    <color name="colorPickerTextNormal">#FF555555</color>
+    <color name="colorPickerTextSelected">#FFF56313</color>
+    <color name="colorIndicatorTextNormal">#FF555555</color>
+    <color name="light_gray">#D6D7D7</color>
+
+
+    <color name="civilaviation">#10CFFF</color>
+
+    <!--左侧菜单点击变色-->
+    <color name="software_textColor_selected">#FF1C94EA</color>
+    <color name="software_textColor_unselected">@android:color/black</color>
+
+    <!-- BaseAppTheme Color -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 美工的颜色 -->
+    <!-- 登录 -->
+    <color name="deep_blue">#000066</color>
+    <color name="bottom_line">#FFFFFF</color>
+    <color name="font_white">#FFFFFF</color>
+    <color name="sky_blue">#0099FF</color>
+    <color name="toast_background">#E53E0B</color>
+    <color name="alert_dialog_title">#26000000</color>
+    <color name="alert_dialog_bg">#1A000000</color>
+    <color name="deep_sky_blue">#003197</color>
+    <color name="deepred">#FF4500</color>
+</resources>
